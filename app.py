@@ -3,7 +3,7 @@ import cv2
 from lib.utils import *
 
 SHOW_VIDEO = False
-VIDEO_PATH = 'video_files/walking.mp4'
+VIDEO_PATH = 'video_files/walking_small.mp4'
 OUTPUT_VIDEO_PATH = 'video_files/output.avi'
 
 cap = cv2.VideoCapture(VIDEO_PATH)
