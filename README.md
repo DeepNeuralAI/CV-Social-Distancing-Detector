@@ -6,7 +6,8 @@ Using object detection, input a video and output a video with bounding boxes of 
 
 
 Credit: 
-[pyimagesearch tutorial](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
+
+[PyImageSearch Tutorial](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
 
 [YOLO Object Detection Docs](https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html#create-a-blob)
 
