@@ -1,5 +1,9 @@
 # CV-Social-Distancing-Detector
 
+
+![vlcsnap-2020-06-24-15h10m59s480](https://user-images.githubusercontent.com/34294344/85503408-f432af00-b62c-11ea-8838-3ebbe4184cd7.png)
+
+
 We detect people using OpenCV's Deep Neural Network module (dnn), utilizing the pre-trained YOLOv3 model trained on the COCO (Common Objects in Context) dataset which is capable of detecting objects of 80 classes.
 
 Using object detection, input a video and output a video with bounding boxes of people walking. If the distance between the pair is too close, the color of the bounding box will turn red, and increment the violations counter.
